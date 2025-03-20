@@ -26,7 +26,6 @@ public class Tetris extends JFrame implements KeyListener {
             Thread.sleep(1000);
             moveDown();
         }
-        
     }
 
     // Pulisce la griglia
